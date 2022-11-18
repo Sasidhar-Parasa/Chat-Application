@@ -1,6 +1,6 @@
 # Chat-Application
 
-##Features:
+## Features:
 
 1. File sharing
 2. View online group members
